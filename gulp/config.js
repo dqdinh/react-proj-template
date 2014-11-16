@@ -21,7 +21,7 @@ module.exports = {
     // Show notifications in the browser.
     notify: true,
     // Customize the BrowserSync console logging prefix
-    logPrefix: 'PWE',
+    logPrefix: 'proj',
     // serve these files
     server: {
       baseDir: [

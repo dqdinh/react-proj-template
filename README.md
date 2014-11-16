@@ -1,7 +1,4 @@
-# Project White Elephant
-
-## Overview
-Coding platform for [www.projectwhiteelephant.com](www.projectwhiteelephant)
+# React Project Template
 
 ## Frontend setup
 If you've never used Node or npm before, you'll need to install Node.
@@ -21,8 +18,7 @@ Gulp must be installed globally in order to use the command line tools.
 
 `npm install`
 
-This runs through all dependencies listed in `package.json` and downloads them
-to a `node_modules` folder in your project directory.
+This runs through all dependencies listed in `package.json` and downloads them to a `node_modules` folder in your project directory.
 
 ### Install bower dependencies
 
